@@ -1,0 +1,7 @@
+plotly_express
+holoviews
+bokeh
+dash
+altair
+seaborn
+https://github.com/plotly/dash-alternative-viz/releases/download/v0.0.1/dash_alternative_viz-0.0.1.tar.gz
